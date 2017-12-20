@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>uzhas_neveroyatniy</title>
-    <link href="style.css" rel="stylesheet" type="text/css">
+    <link href="css/style.css" rel="stylesheet" type="text/css">
     <!-- <link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/css/foundation.min.css" rel="stylesheet" type="text/css"> -->
   </head>
   <body>
@@ -60,7 +60,7 @@
         </div>
       </article>
     </section>
-    <script src="jquery-3.1.0.min.js"></script>
-    <script src="app.js"></script>
+    <script src="js/jquery-3.1.0.min.js"></script>
+    <script src="js/app.js"></script>
   </body>
 </html>
