@@ -4,13 +4,13 @@ body, .tweetbox__field, input {
 }
 
 body {
-  background: lightblue;
+  background: url(images.png);
   width: 320px;
-  margin: 0 auto;
+  margin: 0 auto 0 auto;
 }
 
 .tweetbox {
-  background: #f5f5f5;
+  background: blue;
   border-radius: 6px;
   padding: 10px;
   margin: 10px 0;
@@ -30,6 +30,7 @@ body {
 
 .tweetbox__counter {
   line-height: 22px;
+  color: white;
   margin-right: 5px;
 }
 
